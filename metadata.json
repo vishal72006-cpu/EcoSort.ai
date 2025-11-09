@@ -1,0 +1,7 @@
+{
+  "name": "EcoSort AI",
+  "description": "An AI-powered sustainability assistant that helps you classify waste by analyzing images. Get instant, eco-friendly insights to sort smarter and recycle better.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
